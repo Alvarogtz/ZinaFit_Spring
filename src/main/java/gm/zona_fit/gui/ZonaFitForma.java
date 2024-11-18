@@ -17,7 +17,7 @@ import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 import java.util.List;
 
-@Component
+//@Component
 public class ZonaFitForma extends JFrame{
 
     private static final Logger logger = LoggerFactory.getLogger(ZonaFitApplication.class);
